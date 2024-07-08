@@ -6,9 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7ea57658-9876-442b-bac5-9ea7e2d507ac" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Agenda/src/main/kotlin/AgenteRef.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AgendaRef.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Desafios/Desafio1_3-Variáveis.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Desafios/Desafio2_3-Variáveis.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/Projetos.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
@@ -18,20 +15,7 @@
       <change beforePath="$PROJECT_DIR$/../devC" beforeDir="false" afterPath="$PROJECT_DIR$/../devC" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dio-BootCamp-Dev-Backend-com-Kotlin" beforeDir="false" afterPath="$PROJECT_DIR$/../dio-BootCamp-Dev-Backend-com-Kotlin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dominando-o-Kotlin" beforeDir="false" afterPath="$PROJECT_DIR$/../dominando-o-Kotlin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/treinaweb-kotlin-fundamentos/META-INF/treinaweb-kotlin-fundamentos.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/treinaweb-kotlin-fundamentos/main/AgendaKt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/treinaweb-kotlin-fundamentos/main/Contato.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/Agenda.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/AgendaDev.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/treinaweb-kotlin-fundamentos.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../numero-secreto" beforeDir="false" afterPath="$PROJECT_DIR$/../numero-secreto" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../wsl2-docker-quickstart" beforeDir="false" afterPath="$PROJECT_DIR$/../wsl2-docker-quickstart" afterDir="false" />
     </list>
@@ -66,32 +50,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.Build Agenda.executor": "Run",
-    "Gradle.Build kotlin-fundamentos.executor": "Run",
-    "Kotlin.DesafioKt.executor": "Run",
-    "Kotlin.MainKt (1).executor": "Run",
-    "Kotlin.MainKt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Projetos/kotlin-fundamentos",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Build Agenda.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build kotlin-fundamentos.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.DesafioKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Projetos/kotlin-fundamentos&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "kotlin-gradle-user-dirs": [
-      "C:\\Users\\eduar\\.gradle"
+  &quot;keyToStringList&quot;: {
+    &quot;kotlin-gradle-user-dirs&quot;: [
+      &quot;C:\\Users\\eduar\\.gradle&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projetos\kotlin-fundamentos\src\main\kotlin\Desafios" />
@@ -145,7 +129,9 @@
       <workItem from="1720289573504" duration="2204000" />
       <workItem from="1720294709329" duration="222000" />
       <workItem from="1720295075944" duration="6571000" />
-      <workItem from="1720302597708" duration="6870000" />
+      <workItem from="1720302597708" duration="7691000" />
+      <workItem from="1720354362449" duration="1174000" />
+      <workItem from="1720431036609" duration="861000" />
     </task>
     <servers />
   </component>
